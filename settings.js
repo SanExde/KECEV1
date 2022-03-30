@@ -18,23 +18,23 @@ global.APIKeys = {
 }
 
 // Owner
-global.owner = ['6283808840711','6283808840711','6283184072215']
-global.ownernomer = '6283808840711'
-global.premium = ['6283808840711']
-global.ownername = 'Vraaa keren'
-global.botname = 'kikibot-Md'
-global.footer = 'kikibot-Md'
+global.owner = ['6285869227650','6285869227650','6285955326764']
+global.ownernomer = '6285869227650'
+global.premium = ['6285869227650']
+global.ownername = 'Galz Store'
+global.botname = 'Galz🌻bot'
+global.footer = '©Cerated By Galz Store'
 global.email = 'selawikwok@gmail.com'
 global.ig = 'https://instagram.com/kikollyn'
 global.region = 'thailand'
 
 // Keperluan buttons
 global.myweb = 'http://www.instagram.com/kikollyn'
-global.sc = 'https://chat.whatsapp.com/JOxS05d1WWO529F40SEVEa'
+global.sc = 'https://youtu.be/_g7UabAqcQo'
 global.grupowner ='https://chat.whatsapp.com/JOxS05d1WWO529F40SEVEa'
 // Wm
-global.packname = 'Kikibot'
-global.author = 'Botnya vraaa keren'
+global.packname = 'Galz Bot'
+global.author = 'Galang Ganteng'
 
 // Thumb & Image random
 global.thumb = fs.readFileSync('./image/kiki.jpg')
