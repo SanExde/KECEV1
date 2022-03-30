@@ -275,10 +275,10 @@ return`
 ┌── *Thanks To*
 │• Allah S.W.T
 │• Nabi Muhammad Saw.
-│• Ortu gue
-│• Kawan² ku
-│• Salsaabila (my love)
-│• Kiki Alwiansya (gue)
+│• Vraa ><
+│• Kawan² saya
+│• emak saya
+│• Galang ( gue anjayy )
 └───────
 `
 }
