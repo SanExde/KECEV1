@@ -51,7 +51,7 @@ async function startkiki() {
     const kiki = kikiConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['Kiki Multi Device','Safari','1.0.0'],
+        browser: ['Galang beban','Safari','1.0.0'],
         auth: state,
         version
     })
@@ -121,7 +121,7 @@ let Tod = `Welcome To ${metadata.subject} @${num.split("@")[0]}`
                             }, {
                             	urlButton: {
                                 displayText: '🧸Youtube',
-                                    url: 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
+                                    url: 'https://youtu.be/_g7UabAqcQo'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -160,7 +160,7 @@ let Tod = `Welcome To ${metadata.subject} @${num.split("@")[0]}`
                             }, {
                             	urlButton: {
                                 displayText: '🧸Youtube',
-                                    url: 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
+                                    url: 'https://youtu.be/_g7UabAqcQo'
                                 }
                             }, {
                                 quickReplyButton: {
