@@ -18,7 +18,7 @@ global.APIKeys = {
 }
 
 // Owner
-global.owner = ['6285869227650','6285869227650','6285955326764']
+global.owner = ['6285869227660','6285869227650','6285955326764']
 global.ownernomer = '6285869227650'
 global.premium = ['6285869227650']
 global.ownername = 'Galz Store'
