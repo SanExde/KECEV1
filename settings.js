@@ -9,12 +9,12 @@ const chalk = require('chalk')
 
 // Website Api
 global.APIs = {
-	riykey: 'https://zenzapi.xyz',
+	riykey: 'https://saipulanuar.ga/',
 }
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'sanzychan01', // masukin apikey disini
+	'https://saipulanuar.ga/': 'ZQ5mbiXy', // masukin apikey disini
 }
 
 // Owner
