@@ -1,6 +1,6 @@
 /*
-   * Create By Kizz - Botz alias Vraa keren
-   * Contact Me on wa.me/6283808840711
+   * Create By SanzXd
+   * Contact Me on wa.me/6282114680993
    * kasihan di enc dek" ke base nya aja  : github.com/DikaArdnt/Hisoka-morou
 */
 
@@ -18,23 +18,23 @@ global.APIKeys = {
 }
 
 // Owner
-global.owner = ['6285869227650','6285869227650','6285955326764']
-global.ownernomer = '6285869227650'
-global.premium = ['6285869227650']
-global.ownername = 'Galz Store'
-global.botname = 'Galz🌻bot'
-global.footer = '©Cerated By Galz Store'
-global.email = 'selawikwok@gmail.com'
-global.ig = 'https://instagram.com/kikollyn'
-global.region = 'thailand'
+global.owner = ['6282114680993','6282114680993','6282114680993']
+global.ownernomer = '6282114680993'
+global.premium = ['6282114680993']
+global.ownername = 'Sanz Store'
+global.botname = 'San Bot'
+global.footer = '©Cerated By Sanz Store'
+global.email = 'bengetremuy@gmail.com'
+global.ig = 'https://instagram.com/san.xd12_'
+global.region = 'Indonesia'
 
 // Keperluan buttons
-global.myweb = 'http://www.instagram.com/kikollyn'
-global.sc = 'https://youtu.be/_g7UabAqcQo'
+global.myweb = 'http://www.instagram.com/san.xd12_'
+global.sc = 'https://youtu.be/sanxd'
 global.grupowner ='https://chat.whatsapp.com/JOxS05d1WWO529F40SEVEa'
 // Wm
-global.packname = 'Galz Bot'
-global.author = 'Galang Ganteng'
+global.packname = 'San Bot'
+global.author = 'SanzXd'
 
 // Thumb & Image random
 global.thumb = fs.readFileSync('./image/kiki.jpg')
